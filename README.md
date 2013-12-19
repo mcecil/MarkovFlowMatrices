@@ -13,5 +13,5 @@ Other important points:
 2) if necessary, uncomment and change the folderpath variable at the top of the script to the file path where your “TransitionMatrix.csv” file is located. 
 3) you must have certain Python libraries installed for this script to work, notably sys, string, csv, and numpy. If necessary, uncomment the “sys.path.append…” line at the top of the script to point to where your downloaded libraries are.
 Numpy library available here: http://www.numpy.org/
-4) Youtube video available here: 
+4) Youtube video available here: https://www.youtube.com/watch?v=UD9ZTW7rFE0
 
