@@ -7,7 +7,7 @@ MarkovAndFlowScript.py is  a python script file which takes as an input a “Tra
 The script file outputs a “MatrixOutput.csv” file with information related to Markov and Flow matrices for this land cover change.
 
 
-*** IMPORTANT!!
+IMPORTANT!!
 1) You must change the folderpath variable (in line 16) near the top of the script to point to the file directory containing  your python script and the TransitionMatrix.csv file. 
 
 Other important points:
