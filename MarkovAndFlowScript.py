@@ -21,7 +21,7 @@ csvPathAndName = folderPath + csvName
 f1 = open(csvPathAndName,'r')
 
 # define and open csv output file
-ofile  = open('MatrixOutput.csv', "wb")
+ofile  = open('MatrixOutput.csv', "w")
 writer = csv.writer(ofile, delimiter=',',)
 
 # FUNCTION DEFINITIONS (can be added to when code is refactored)
