@@ -21,5 +21,5 @@ Numpy library available here: http://www.numpy.org/
 
 5) Youtube video available here: http://www.youtube.com/watch?v=UD9ZTW7rFE0
 
-6) Download link for related files: https://drive.google.com/file/d/0B1Dh-GK4po1rempzbzVUUGlCRms/edit?usp=sharing 
+6) Download link for related files: https://drive.google.com/file/d/1INu3xGDxrnsqnbH5bOMbDws1eqQRnfJD/view?usp=sharing 
 This includes a chart template, other sample input transition matrix files, and read-me files for the script itself, the input TransitionMatrix.csv file, and the output MatrixOutput.csv file. 
